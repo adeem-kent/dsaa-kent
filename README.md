@@ -1,6 +1,6 @@
 Dear Students,
 
-All the code examples and materials we cover in the DSAA class at KENT Institute are available for your reference. 
+These are all the code examples we cover in the DSAA classes at KENT Institute are available for your reference. 
 
 Kind regards,
 
